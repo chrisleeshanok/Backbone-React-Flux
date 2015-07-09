@@ -1,0 +1,14 @@
+{
+    "env": {
+        "node": true
+    },
+    "ecmaFeatures": {
+        "jsx": true
+    },
+    "rules": {
+        "brace-style": [2, "stroustrup", { "allowSingleLine": true }],
+        "eqeqeq": [2, "smart"],
+        "quotes": [1, "single"],
+        "semi": [2, "always"]
+    }
+}
